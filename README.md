@@ -1,4 +1,4 @@
-# ![Discord+](https://whmcs.vnhosts.com/assets/img/logo.png)
+# ![Discord+](https://whmcs.vnhosts.com/assets/img/1.png)
 A sleek, customizable Discord theme, inspired by Material.
 
 ![Screenshot of Discord+ in dark theme](https://prnt.sc/0eGi3yKbWNh_)
