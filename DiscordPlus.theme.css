@@ -1,21 +1,21 @@
 /**
- * @name Discord+
+ * @name TheBestTheme
  * @version 3.1.1
- * @author PlusInsta
- * @authorLink https://plusinsta.xyz
+ * @author VanillyNeko
+ * @authorLink https://www.vanillyneko.com
  * @description A sleek, customizable Discord theme.
- * @website https://plusinsta.xyz/discord-plus/
- * @source https://github.com/PlusInsta/discord-plus/blob/master/DiscordPlus-source.theme.css
- * @invite 2Jwh2nS
+ * @website https://www.vanillyneko.com
+ * @source https://github.mylittlespacelife.com/VanillyNeko-discord-theme/DiscordPlus-source.theme.css
+ * @invite bptEdGMNfW
 */
-@import url(//plusinsta.xyz/discord-plus/DiscordPlus-source.theme.css);
+@import url(https://github.mylittlespacelife.com/DiscordPlus-source.theme.css);
 
 /* I've commented most of these values so you can change them yourself.
    If you're having trouble, or you want to do more than what these values
    allow for, drop by our server and we can probably help you out! */
 
 /* Font import */
-@import url(https://fonts.googleapis.com/css?family=Poppins:400,700|Roboto:400,700|Righteous);
+@import url(https://fonts.googleapis.com/css?family=Averia+Sans+Libre:400,700|Dancing+Script:400,700|Indie+Flower:400|Caveat+Brush);
 /* This link loads fonts. Go to fonts.google.com and have a look!
 If there's any fonts you like, click them, select styles that are
 the closest to 400 and 700. If you want more fonts, back out to the
@@ -27,7 +27,7 @@ the "CSS rules" it gives you. After that, just set the fonts below! */
 /* Background image. Falls back to accent color if invalid.
    To use an image on your computer, send it anywhere on Discord,
    then right-click and Copy Link, then paste it between the ()'s'. */
---dplus-background: url(https://i.imgur.com/3AiL3yN.png);
+--dplus-background: url(https://github.mylittlespacelife.com/assets/discord/back.jpg);
 
 /* Accent color, used to decorate the UI with colors. */
 --dplus-accent-ui: #802060;
@@ -50,8 +50,8 @@ the "CSS rules" it gives you. After that, just set the fonts below! */
 --dplus-spacing-app: 10px;
 
 /* The Home icon */
---dplus-icon-home-dark: url(//plusinsta.xyz/discord-plus/assets/discord/home_dark.svg);
---dplus-icon-home-light: url(//plusinsta.xyz/discord-plus/assets/discord/home_light.svg);
+--dplus-icon-home-dark: url(https://github.mylittlespacelife.com/assets/discord/1.png);
+--dplus-icon-home-light: url(https://github.mylittlespacelife.com/assets/discord/1.png);
 
 /* Icon sizes */
 --dplus-icon-avatar-chat: 64px;
