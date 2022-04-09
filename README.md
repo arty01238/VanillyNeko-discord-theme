@@ -1,4 +1,4 @@
-# ![Discord+](https://github.com/arty01238/VanillyNeko-discord-theme/tree/master/assets/discord/1.png)
+# ![Discord+](https://whmcs.vnhosts.com/assets/img/logo.png)
 A sleek, customizable Discord theme, inspired by Material.
 
 ![Screenshot of Discord+ in dark theme](https://prnt.sc/0eGi3yKbWNh_)
