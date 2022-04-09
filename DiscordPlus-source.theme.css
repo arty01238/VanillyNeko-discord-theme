@@ -8,8 +8,8 @@
  * @source https://raw.githubusercontent.com/PlusInsta/discord-plus/master/DiscordPlus-source.theme.css
  * @invite 2Jwh2nS
 */
-@import url(https://plusinsta.xyz/discord-plus/assets/plugins.css);
-@import url(https://plusinsta.xyz/discord-plus/assets/extras.css);
+@import url(https://github.mylittlespacelife.com/assets/plugins.css);
+@import url(https://github.mylittlespacelife.com/assets/extras.css);
 /* Main fonts */
 @import url(https://fonts.googleapis.com/css?family=Poppins:400,700|Roboto:400,700|Righteous);
 /* Localized fonts */
@@ -48,8 +48,8 @@
 	--dplus-spacing-app: 10px;
 
 	/* Icons */
-	--dplus-icon-home-dark: url(https://plusinsta.xyz/discord-plus/assets/discord/home_dark.svg);
-	--dplus-icon-home-light: url(https://plusinsta.xyz/discord-plus/assets/discord/home_light.svg);
+	--dplus-icon-home-dark: url(https://github.mylittlespacelife.com/assets/discord/1.png);
+	--dplus-icon-home-light: url(https://github.mylittlespacelife.com/assets/discord/1.png);
 
 		/* Icon sizes*/
 	--dplus-icon-avatar-chat: 64px;
