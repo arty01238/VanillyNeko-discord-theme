@@ -1,10 +1,10 @@
-# ![Discord+](https://github.com/PlusInsta/discord-plus/blob/master/assets/wordmark_white.svg)
+# ![Discord+](https://github.com/arty01238/VanillyNeko-discord-theme/tree/master/assets/discord/1.jpg)
 A sleek, customizable Discord theme, inspired by Material.
 
-![Screenshot of Discord+ in dark theme](https://cdn.discordapp.com/attachments/560369937084973067/852549506298150922/unknown.png)
-![Screenshot of Discord+ in light theme](https://cdn.discordapp.com/attachments/560369937084973067/852549509154471946/unknown.png)
+![Screenshot of Discord+ in dark theme](https://prnt.sc/0eGi3yKbWNh_)
+![Screenshot of Discord+ in light theme](https://prnt.sc/az8Hhl5qV-Gi)
 
-**Discord+** is a theme for [Discord](https://discord.com). It's both sleek and customizable, without getting in your way. Its top priority is balancing between looks and performance.
+**TheBestTheme** is a theme for [Discord](https://discord.com). It's both sleek and customizable, without getting in your way. Its top priority is balancing between looks and performance.
 
 ## User customization
 This theme is **very customizable**.
@@ -17,4 +17,4 @@ The variables in the theme file allow you to change many things, including but n
 * UI corner roundness
 * Overall spacing
 
-If customizing the theme is difficult, [our server](https://discord.gg/invite/2Jwh2nS) has a detailed FAQ with answers to common questions! If that still doesn't solve your problem, we're usually available in #support.
+If customizing the theme is difficult, [our server](https://discord.gg/invite/bptEdGMNfW) has a detailed FAQ with answers to common questions! If that still doesn't solve your problem, we're usually available in #support.
