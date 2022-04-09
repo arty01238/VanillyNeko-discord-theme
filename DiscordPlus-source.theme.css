@@ -48,8 +48,8 @@
 	--dplus-spacing-app: 10px;
 
 	/* Icons */
-	--dplus-icon-home-dark: text("VanillyNeko");
-	--dplus-icon-home-light: text("VanillyNeko");
+	--dplus-icon-home-dark: url(https://github.mylittlespacelife.com/assets/discord/logo.png);
+	--dplus-icon-home-light: url(https://github.mylittlespacelife.com/assets/discord/logo.png);
 
 		/* Icon sizes*/
 	--dplus-icon-avatar-chat: 64px;
