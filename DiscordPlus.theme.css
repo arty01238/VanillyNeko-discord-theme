@@ -50,8 +50,8 @@ the "CSS rules" it gives you. After that, just set the fonts below! */
 --dplus-spacing-app: 10px;
 
 /* The Home icon */
---dplus-icon-home-dark: url(https://github.mylittlespacelife.com/assets/discord/1.png);
---dplus-icon-home-light: url(https://github.mylittlespacelife.com/assets/discord/1.png);
+--dplus-icon-home-dark: url(https://github.mylittlespacelife.com/assets/discord/logo.png);
+--dplus-icon-home-light: url(https://github.mylittlespacelife.com/assets/discord/logo.png);
 
 /* Icon sizes */
 --dplus-icon-avatar-chat: 64px;
