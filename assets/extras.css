@@ -19,13 +19,13 @@
 /* put a nice logo in my server's channel list */
 [data-list-item-id="channels___554914403011526675"] .name-3BUDLf {
 	font-size: 0;
-	background: no-repeat url(//plusinsta.xyz/discord-plus/assets/wordmark_white.svg);
+	background: no-repeat url(https://whmcs.vnhosts.com/assets/img/1.png);
 	background-size: 54px 13px;
 	width: 54px; height: 13px;
 	opacity: 0.6;
 }
 .theme-light [data-list-item-id="channels___554914403011526675"] .name-3BUDLf {
-	background: no-repeat url(//plusinsta.xyz/discord-plus/assets/wordmark_black.svg);
+	background: no-repeat url(https://whmcs.vnhosts.com/assets/img/1.png);
 	background-size: 54px 13px;
 	width: 54px; height: 13px;
 	opacity: 0.7;
